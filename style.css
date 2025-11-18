@@ -26,4 +26,20 @@ header {
     display: flex;
     align-items: center;
     justify-content: space-around;
+    background-color: black;
+    padding-bottom: 4vh;
+}
+
+.logoText {
+    color: red;
+}
+
+
+.webList ul li a {
+    color: white;
+}
+
+.webList ul li a:hover {
+    color: red;
+    transition: 0.8s ease-in;
 }
