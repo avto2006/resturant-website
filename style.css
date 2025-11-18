@@ -1,14 +1,16 @@
 body {
     margin: 0;
+    font-family: 'Roboto', sans-serif;
 }
 
 .logoArea {
     display: flex;
     align-items: center;
+    gap: 1vh;
 }
 
 .logo {
-    width: 140px;
+    width: 130px;
 }
 
 .webList ul {
@@ -27,7 +29,7 @@ header {
     align-items: center;
     justify-content: space-around;
     background-color: black;
-    padding-bottom: 4vh;
+    padding-bottom: 2vh;
 }
 
 .logoText {
@@ -42,4 +44,12 @@ header {
 .webList ul li a:hover {
     color: red;
     transition: 0.8s ease-in;
+}
+
+.img {
+    width: 780px;
+}
+
+.sec_1 {
+    display: flex;
 }
