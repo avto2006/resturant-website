@@ -1,3 +1,7 @@
+body {
+    margin: 0;
+}
+
 .logoArea {
     display: flex;
     align-items: center;
@@ -5,4 +9,15 @@
 
 .logo {
     width: 140px;
+}
+
+.webList ul {
+    display: flex;
+    justify-content: center;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
 }
