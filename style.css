@@ -11,7 +11,7 @@ body {
 }
 
 .logo {
-    width: 130px;
+    width: 100px;
 }
 
 .webList ul {
@@ -61,7 +61,7 @@ header {
 
 .sec1_text {
     position: absolute; 
-    top: 50%;
+    top: 30%;
     left: 50%;
     transform: translate(-50%, -50%);
     color: white;
@@ -71,4 +71,13 @@ header {
     width: 100%;
     text-shadow: 0 0 10px rgba(0,0,0,0.7);
     line-height: 8vh;
+}
+
+.bottom_img {
+    
+}
+
+.bottom_img {
+    display: flex;
+    justify-content: center;
 }
