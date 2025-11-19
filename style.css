@@ -80,4 +80,25 @@ header {
     background-position: center;
     background-repeat: no-repeat;
     background-attachment: fixed;
+    align-items: center;
+    
+}
+
+
+.img3 {
+    width: 550px;
+}
+
+.imgConteiner {
+    display: flex;
+    
+}
+
+.imgConteiner img  {
+    margin-top: 10vh;
+    margin-left: 10vh;
+}
+
+.sec2 {
+    margin-bottom: 20vh;
 }
