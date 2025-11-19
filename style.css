@@ -73,3 +73,11 @@ header {
     line-height: 8vh;
 }
 
+
+.sec2{
+    background-image: url('assets/images/background\ 4.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
